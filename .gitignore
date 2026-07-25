@@ -1,0 +1,6 @@
+__pycache__/
+embeddings/accept.pt
+images/accept
+face_bit_model.pth
+secret.bin
+
