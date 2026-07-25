@@ -153,19 +153,3 @@ LoginFace/
 │
 ├── requirements.txt
 └── README.md
-
-Requirements
-
-Create the environment:
-
-python -m venv myenv
-
-Activate it:
-
-Linux:
-
-source myenv/bin/activate
-
-Install dependencies:
-
-pip install -r requirements.txt
